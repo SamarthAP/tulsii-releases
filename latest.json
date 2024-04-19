@@ -1,10 +1,10 @@
 {
-  "version": "0.0.1",
-  "notes": "Beta Version",
+  "version": "0.0.2",
+  "notes": "Auto update and restart.",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRHpqdVg4c25WaG1oTm5tUkhidURobjJlSkVNRDhHam9sOWZLNzlINFlwZEhFRmFtWGt2UUxzZDY3TloySWxhTE9XRlo4YmRzS3JrQ2EvSkZER2JIdkpoL25ITDMyS1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzNTE0ODUzCWZpbGU6dHVsc2lpLmFwcC50YXIuZ3oKcDdOb1FENmlCdnNsdE1YVUlVTnUyLzJBaUEwSHhzTGViZ1ZmakFLYXFZOHNjOEdzOWxNeDNvU1o5ZDlMWFhzMnNWSEN0NUVHRTRwMmxLSXprN09RQ1E9PQo=",
-      "url": "https://github.com/SamarthAP/tulsii-releases/releases/download/0.0.1/tulsii_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRHpqdVg4c25WaHNPYXR4VUJGazdQOEpNbHQ1R1k5cSsvM3lEbjdmQkExaElWeitvUkhoWGk0RGNnWkxmV0d2VjNHS2lPVzVwT3ArWXhFTEpreXh0TlpPbXlVQVkxR3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzNTUzNjYwCWZpbGU6dHVsc2lpLmFwcC50YXIuZ3oKL21wNE56cUdVeHV3OWN1d09ueFF2c2pqVmlGRlNNeDVkS1AybXQ1a3BndDFyQUZoazZEY3NLNzdRYi9pVFNtSnNiZjI0SEpQazdLcUlJUDBHaUhzQUE9PQo=",
+      "url": "https://github.com/SamarthAP/tulsii-releases/releases/download/0.0.2/tulsii_aarch64.app.tar.gz"
     }
   }
 }
