@@ -1,10 +1,14 @@
 {
-  "version": "0.0.3",
-  "notes": "Update the editor and add note linking.",
+  "version": "0.0.4",
+  "notes": "Update scrollbar on windows.",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRHpqdVg4c25WaHVjbDNucGliQTZZMkRSZ2F2V0twaGlLQms0YWlLdHRUMTYwOEdaejcyMjJ0TWNIbHA0dDZVd2E1SFFubldONW4xeDhEOTNFQXljTUMwQjRUWDAvalFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzNzIwMTA3CWZpbGU6dHVsc2lpLmFwcC50YXIuZ3oKNDVSOGt2OVplVDNEcm5IUnRMYWZraFBHbjg0S0FBV3VlREg0NS9BQ3pqTUxmNmVyZkVtc0swTUxUQzN2MjFtWjBmRGkxc01ndFlBUjUyZWxNNTBmQ3c9PQo=",
-      "url": "https://github.com/SamarthAP/tulsii-releases/releases/download/0.0.3/tulsii_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRHpqdVg4c25WaHZOOUphR2JyTkJpUERrN2hvS1ZKbldmZHRyWU83TlJ6bnBpNVRwM00zMWZPNnFuUnlTd0xBdVRKZDhCOGRFbU1IdWk0bXhFcHN1TWpTYjNMR3BYV1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzODM2NTQ4CWZpbGU6dHVsc2lpLmFwcC50YXIuZ3oKMThNZVFmRmJXTVNaTTVTWDhOUC9MRnhNVFhIbjRaamh6aWJ1ODZvdDFrQk4xdlg5L0JIenlaZkhzVmdHOVVqRE4xY2RCVWZUK3ZiTm1ITkpjaERLQmc9PQo=",
+      "url": "https://github.com/SamarthAP/tulsii/releases/download/tulsii-v0.0.4/tulsii_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRHpqdVg4c25WaGhmS2p0N20wOVd3L3NGM0dXUHBpVWhGY291bHZqTlUvUW51NFI2Kzg3QWVId280U2tRYkt3L1AyQk54YzVhb2dmcWtSOG8zaDBUekNNNC9RRGptQUE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzODM2ODIwCWZpbGU6dHVsc2lpXzAuMC40X3g2NF9lbi1VUy5tc2kuemlwCjkrWmZXYldDSHRwWGgwVXZSdHpsTkwrSWovOVh1YXZZSVNBL04vS3B5TzNQeW1tT1NVVERtb1lURTZ5MmNVR25CckFHRU01VnZQQnFMV1J5VEVsMURBPT0K",
+      "url": "https://github.com/SamarthAP/tulsii/releases/download/tulsii-v0.0.4/tulsii_0.0.4_x64_en-US.msi.zip"
     }
   }
 }
