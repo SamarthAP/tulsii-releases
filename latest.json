@@ -1,11 +1,11 @@
 {
-  "version": "0.0.7",
+  "version": "0.0.8",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2024-04-23T05:23:48.858Z",
+  "pub_date": "2024-04-23T05:38:15.087Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRHpqdVg4c25WaGtGL0dwcDdGTStVU203L0xRdzVWUm5ndW50aFV2NWJOTlZOWUlnTVh4RGYzR0dvejNoSWNxWHJJZHlCbVNySm9kSUNIMEVlYUpMZmlrL25lL0dMeGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzODQ5ODI1CWZpbGU6dHVsc2lpLmFwcC50YXIuZ3oKdlFVS2Y5UXFWVmluTGZPelA0WlN3Yk5ZSWtKOHM4VExlVzRWcjZza2xOZTEzd1gxQ0FtU24xdy9VWDNDVmEzK1FxZGszdlpoamxTZmt3bW5la2FvQ1E9PQo=",
-      "url": "https://github.com/SamarthAP/tulsii/releases/download/tulsii-v0.0.7/tulsii_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRHpqdVg4c25WaGdyRWJweWowbFdLYnJQTThDb2U0c3hPdFdpWUtQdEh2LytRQ1RKNUhDWWlpOU9kVitTaVc3V0NqVXRhUU1zQkRBemFNVUoxbWQrZVV4dkp2d3YzQmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzODUwNjkxCWZpbGU6dHVsc2lpLmFwcC50YXIuZ3oKUTh5b0JPK3o3YkN2ZkVJREFJd0NhSEpuL08zT0RwOWpqeHVUdkZzNHRtdnB3S09xdk02YmIybXhyVmhLS0dkcHpobVR0Q3ZEWXAzS0NvS0JMV1NpRFE9PQo=",
+      "url": "https://github.com/SamarthAP/tulsii/releases/download/tulsii-v0.0.8/tulsii_aarch64.app.tar.gz"
     }
   }
 }
