@@ -5,11 +5,11 @@
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRHpqdVg4c25WaHVCcWthUlB1c28vN3dRTlNZZWp2bk1nY1F5UkZMRW5BczNEY01wNklTMktsS1ZwY1RQZjNPUDlUR3IxRG1ZWFR1TmR3RUxWSmZwcHExeGlmTXUvWGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzODUyNzYzCWZpbGU6dHVsc2lpLmFwcC50YXIuZ3oKYURYemhpS25FN3d1bkYzSnBhTVplM2pkZUQ2bWdhUStEMHFsbldVSC95Ujl6djVLZkVxTFE5bTJTNC9HZFJHRXdZN09SUmtrWkl2RisrUmZMK1Z5RGc9PQo=",
-      "url": "https://github.com/SamarthAP/tulsii/releases/download/0.0.8/tulsii_aarch64.app.tar.gz"
+      "url": "https://github.com/SamarthAP/tulsii-releases/releases/download/0.0.8/tulsii_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRHpqdVg4c25WaHFGeDgxeGxkekdFZkI1ZXVWRTN0QzAvZ25PNm9UY0toVHl6eU9GMnhuemx0R2g4QzZ4WUIwTk8xTHlsanZTYUFtOFJKN1Y1bVIzd0lPc2RoN3E0a0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzODUyNzAwCWZpbGU6dHVsc2lpXzAuMC44X3g2NF9lbi1VUy5tc2kuemlwCjlMeDFXRzArRklSS2FxcHVMY3NSc1NUb0wwaDNPa05GWUF4Y2dkbENjQ2ZtWC85T0RrVE8vQno2cVNKeDQrUGZRNGdIZElOaXR6MitwSE9mSzlFYUNRPT0K",
-      "url": "https://github.com/SamarthAP/tulsii/releases/download/0.0.8/tulsii_0.0.8_x64_en-US.msi.zip"
+      "url": "https://github.com/SamarthAP/tulsii-releases/releases/download/0.0.8/tulsii_0.0.8_x64_en-US.msi.zip"
     }
   }
 }
