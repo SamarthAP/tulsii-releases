@@ -1,15 +1,15 @@
 {
-  "version": "0.0.10",
-  "notes": "Fix sync issues.",
-  "pub_date": "2024-04-30T05:06:17.406Z",
+  "version": "0.0.11",
+  "notes": "Add brain and public notes",
+  "pub_date": "2024-05-08T17:44:35.498Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRHpqdVg4c25WaHVYeDBWVzlrcjJ4aTZJZDczM2pXMGJCUDNVYkdZWklrcnhhUlZ2WHJBZ2Z2bGVnK1hJY2hOblF3R3lkWit0eFlrK0FOcXFmZVR5R0QzNHVWcGs4YlFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0NDUyNjMzCWZpbGU6dHVsc2lpLmFwcC50YXIuZ3oKVWZhcnJSREUzVndzOVd6aTdXT1JxVlBSdlgwNG8ySmtuT0NPTEVQb3pLaDFHSkFscTZGR2VHaUMvU1JZbFEzL0cyQ1p3Y1daQjJtWm1sbXpFQlVCQ0E9PQo=",
-      "url": "https://github.com/SamarthAP/tulsii-releases/releases/download/0.0.10/tulsii_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRHpqdVg4c25WaHV3TjV1SVVKb2s3Q0V1Y2cvWUtNOTdmdm5PWHlUTTlJRFM5UW9GR3pBRW1MeURJbXhUdnJlZmUva3h4cHQwcGlMZGNvdG55RlA5Y3J2SHFRT3FNSGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE1MTg5NjQ1CWZpbGU6dHVsc2lpLmFwcC50YXIuZ3oKTndIOGNZN0pjRHZCWU5sdjlGK1FCVXBjQ3N4TzdUSWFpbEcyZnlzc0pBTlVTaGw2ZzNyam1LRllWbUM2TkQ4TVdpbkdZQWhsWGQybzl4ZzZiMXRHQ0E9PQo=",
+      "url": "https://github.com/SamarthAP/tulsii-releases/releases/download/0.0.11/tulsii_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRHpqdVg4c25WaGczK24vRGJ6Q1AvM3A3cWEwZmdnNWJyTVB0NFRZdUZRWEt0eUtzZlBSTjVzYnh1UGRYajh3ZE1lS1hMd0p6YkM0YXJJdHRLWUl4MHk0bTdxR1FDbkFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0NDUzNTc0CWZpbGU6dHVsc2lpXzAuMC4xMF94NjRfZW4tVVMubXNpLnppcAp0VkNLWHdsM2VNS2x1azlyVllLSUl1MTlreit6ZE12aUx2VHQ1SHc1K3UweEpsL3dNRFgxS3AxUy9pMlJjRk5OSFA3UXdxWmdFNWJJc3Bia0FZYlBCdz09Cg==",
-      "url": "https://github.com/SamarthAP/tulsii-releases/releases/download/0.0.10/tulsii_0.0.10_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRHpqdVg4c25WaGlLWTRPMEpiQUhlMWpnbmNTMEpMMkNIaDlDeHZ2T3g4K1VrbDY2WTU5WWJlMUZEUWlKQUY5cDRhYkRRYzVOai96STNOS1g0Ui80blJGQnZQTTQ1MXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE1MTkwMjcwCWZpbGU6dHVsc2lpXzAuMC4xMV94NjRfZW4tVVMubXNpLnppcApMTXJMZXNCNVNOR3pKRk9PUW5nS0Q3NW9keXM0aTBVbEtYZUNmWm5RSkhMUFRsV1gzMGNuUlJ5T2pkZG1tZWRaY2phWXpmOFJaUzd6RWV1ZkVkbHpCdz09Cg==",
+      "url": "https://github.com/SamarthAP/tulsii-releases/releases/download/0.0.11/tulsii_0.0.10_x64_en-US.msi.zip"
     }
   }
 }
